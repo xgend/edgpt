@@ -119,7 +119,7 @@ You can customize **EdGPT** by:
 ## **Contributing**
 Contributions are welcome! Feel free to:
 - Submit pull requests.
-- Report bugs or request features in the [issues section](https://github.com/yourusername/edgpt/issues).
+- Report bugs or request features in the [issues section](https://github.com/xgenfuture/edgpt/issues).
 
 ---
 

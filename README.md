@@ -136,4 +136,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ### **Contact**
-For inquiries, reach out to **XGen Future** at mail.xgenfuture@gmail.com.
+For inquiries, reach out to **Xgen Dev** at mail.xgendev@gmail.com.

@@ -50,7 +50,7 @@ edgpt/
 ### **Install Dependencies**
 Clone the repository and install the necessary Python packages:
 ```bash
-git clone https://github.com/xgenfuture/edgpt.git
+git clone https://github.com/xgend/edgpt.git
 cd edgpt
 pip install -r requirements.txt
 ```
@@ -119,7 +119,7 @@ You can customize **EdGPT** by:
 ## **Contributing**
 Contributions are welcome! Feel free to:
 - Submit pull requests.
-- Report bugs or request features in the [issues section](https://github.com/xgenfuture/edgpt/issues).
+- Report bugs or request features in the [issues section](https://github.com/xgend/edgpt/issues).
 
 ---
 
